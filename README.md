@@ -17,7 +17,7 @@ This is an Excel-based VBA tool that automates ledger data extraction from Tally
 4️⃣ Export the data to PDF/Excel  
 
 📺 **Watch the Full Tutorial on YouTube:**  
-➡️ [Click Here to Watch]([Your-YouTube-Video-Link](https://youtu.be/QPr-TQW1rPk))
+➡️ [Click Here to Watch](https://youtu.be/QPr-TQW1rPk)
 
 🛠️ Setup & Installation
 1. Download the Excel file from this repository  
